@@ -2,9 +2,9 @@
 
 Interface JAVA con API Usb de Microchip
 
-**Autor:** Geronimo Oñativia  
+**Autor:** Angel Gonzalez Mejia  
 **Versión:** 1.1.1  
-**Fecha:** 08 de Marzo de 2009
+**Fecha:** 31 de Octubre de 2025
 
 ## Documentación
 
